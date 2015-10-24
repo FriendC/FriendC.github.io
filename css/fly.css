@@ -1,0 +1,30 @@
+#upper {
+	filter:alpha(Opacity=80);
+	-moz-opacity:0.5;
+	opacity: 0.5;
+	background:#000;
+	width: 100%;
+	height:100px;
+	padding:5px;
+	position:fixed;
+	top:240px;
+}
+
+#upper {
+	font-weight: 600;
+  	font-size: 2em;
+  	line-height: 1;
+  	color: white;
+  	text-align: center;
+  	font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+}
+
+#home {
+	margin: 0px;
+	padding: 0px;
+	width: 100px;
+	height: 100px;
+	float: left;
+	display: inline;
+	z-index: 99;
+}

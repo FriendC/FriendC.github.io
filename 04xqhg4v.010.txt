@@ -1,0 +1,63 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   css/animate.css
+#	new file:   css/assets/arrowbottom.png
+#	new file:   css/assets/arrowbottom2.png
+#	new file:   css/assets/arrowleft.png
+#	new file:   css/assets/arrowleft2.png
+#	new file:   css/assets/arrowright.png
+#
+# Untracked files:
+#	MM.html
+#	_sass/
+#	css/assets/LeagueGothic.otf
+#	css/assets/arrowright2.png
+#	css/assets/arrowtop.png
+#	css/assets/arrowtop2.png
+#	css/assets/brushed_alu.png
+#	css/assets/dark_geometric.png
+#	css/assets/dark_geometric2.png
+#	css/assets/future.gif
+#	css/assets/method.gif
+#	css/assets/project.gif
+#	css/assets/results.gif
+#	css/assets/team.gif
+#	css/baidu.css
+#	css/bootstrap-theme.min.css
+#	css/bootstrap.min.css
+#	css/card-4.css
+#	css/card.css
+#	css/default.css
+#	css/demo.css
+#	css/fly.css
+#	css/font-awesome.min.css
+#	css/index.css
+#	css/l&t.css
+#	css/load.css
+#	css/magnific-popup.css
+#	css/main.css
+#	css/normalize.css
+#	css/pattern-4.css
+#	css/pattern.css
+#	css/responsive.css
+#	css/style.css
+#	css/style.min.css
+#	css/stylemain.css
+#	css/xo.css
+#	demo/
+#	favicon.ico
+#	fonts/
+#	future.html
+#	images/
+#	index.html
+#	js/
+#	project.html
+#	results.html
+#	team.html
+#
+

@@ -1,0 +1,35 @@
+#bs-menu {
+    position: fixed;
+    top: -2px;
+    left: 36px;
+    margin:5px;
+    font-weight:bold!important;
+    font-size: 1.5em;
+    color: black;
+}
+
+#section_third {
+  height: 123px;
+  position: relative;
+  padding: 20px 4% 20px 8%;
+  background-color: #111a2b;
+  background-image: url(../images/anwen_down.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  display: block;
+  font-size: 16px;
+  font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+}
+
+body {
+  font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+}
+
+#mm-menu {
+  font-weight: bold;
+}
+
+.mm-menu__link-text {
+  color: gray;
+}
+
